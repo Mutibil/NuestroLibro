@@ -1,8 +1,10 @@
 # Aprendamos GIT
 
-## Indice.
+## Índice.
 
 Versión aplicable.
+
+Funcionamiento de GIT.
 
 Cuales son las áreas de trabajo que utiliza GIT.
 
@@ -17,11 +19,5 @@ Resolución de conflictos.
 Seguimiento a los cambios.
 
 Corrección de errores.
-
-
-
-
-
-
 
 
