@@ -1,13 +1,27 @@
-# Nuestro Libro
+# Aprendamos GIT
 
-## Índice
+## Indice.
 
-### Introducción.
-### Epílogo.
-### Capítulo 1, Presentación del personaje principal y trama secundaria.
-### Capítulo 2, Personajes secundarios y presentación de tama principal.
-### Capítulo 3, Desarrollo de trama inicial.
-### Capítulo 4, Desarrollo de trama secundaria.
-### Colofón.
-### Bibliografía.
+Versión aplicable.
+
+Cuales son las áreas de trabajo que utiliza GIT.
+
+Como funcionan las áreas de trabajo entre ellas.
+
+Funcionamiento del reinicio.
+
+Funcionamiento del stashing.
+
+Resolución de conflictos.
+
+Seguimiento a los cambios.
+
+Corrección de errores.
+
+
+
+
+
+
+
 
