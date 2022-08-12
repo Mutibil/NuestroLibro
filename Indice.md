@@ -6,6 +6,8 @@ Versión aplicable.
 
 Funcionamiento de GIT.
 
+    ¿Qué es GIT?
+
 Cuales son las áreas de trabajo que utiliza GIT.
 
 Como funcionan las áreas de trabajo entre ellas.
@@ -19,5 +21,3 @@ Resolución de conflictos.
 Seguimiento a los cambios.
 
 Corrección de errores.
-
-
